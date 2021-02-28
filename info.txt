@@ -1,0 +1,8 @@
+username : george
+hostname : localhost
+password : AEkDERfoWyWmnn43
+table prefix : wp_sample
+------------------------
+wordpress
+username : localhost
+password : T@GMv*a@pNQev52ZIF
